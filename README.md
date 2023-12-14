@@ -9,4 +9,5 @@ The Complete Python Bootcamp From Zero to Hero
 
 ## Instructor
 Jose Portilla
+
 Head of Data Science at Pierian Training
