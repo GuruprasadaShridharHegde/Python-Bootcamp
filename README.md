@@ -8,6 +8,4 @@ The Complete Python Bootcamp From Zero to Hero
 5. Course Slides can be found here: https://drive.google.com/drive/folders/1CKqOQzst1cGURXGiRVivi2Xsc0n-X8CR?usp=sharing
 
 ## Instructor
-Jose Portilla
-
-Head of Data Science at Pierian Training
+Jose Portilla who is Head of Data Science at Pierian Training, special thanks for this amazing course.
