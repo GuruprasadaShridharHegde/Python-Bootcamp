@@ -12,7 +12,9 @@ Jose Portilla who is Head of Data Science at Pierian Training, special thanks fo
 
 
 Course Curriculum Overview:
+
 INTRODUCTION:
+
 a. Curriculum Overview
 b. Python 2 Vs Python 3
 c. How to approach this course.
