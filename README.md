@@ -7,6 +7,18 @@ The Complete Python Bootcamp From Zero to Hero
 4. Video guide on how to use the chat room: https://www.youtube.com/watch?v=bkH89OJ001M
 5. Course Slides can be found here: https://drive.google.com/drive/folders/1CKqOQzst1cGURXGiRVivi2Xsc0n-X8CR?usp=sharing
 
-
 ## Instructor
 Jose Portilla who is Head of Data Science at Pierian Training, special thanks for this amazing course.
+
+
+Course Curriculum Overview:
+INTRODUCTION:
+a. Curriculum Overview
+b. Python 2 Vs Python 3
+c. How to approach this course.
+
+Python setup:
+a. Python Installation
+b. Environment Selection
+c. Jupyter Notebooks
+d. Git and GitHub overview
