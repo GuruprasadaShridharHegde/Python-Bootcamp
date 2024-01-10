@@ -51,4 +51,4 @@ c. **Jupyter Notebooks:**
 d. **Git and GitHub Overview:**
    - Explore the fundamentals of Git and GitHub to enhance your version control skills.
 
-Feel free to explore the provided links and resources to make the most out of this Python Bootcamp. Happy coding!
+Happy coding!
