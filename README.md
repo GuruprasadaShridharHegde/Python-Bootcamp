@@ -63,3 +63,15 @@ Data Types:
 * tuple 
 * set 
 * bool 
+
+
+Note:
+1. Mutable objects are:
+* List
+* Dictionary
+* Sets
+
+2. Immutable objects are:
+* Numbers
+* Strings
+* Tuples
