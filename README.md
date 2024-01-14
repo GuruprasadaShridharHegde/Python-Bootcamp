@@ -52,3 +52,14 @@ d. **Git and GitHub Overview:**
    - Explore the fundamentals of Git and GitHub to enhance your version control skills.
 
 Happy coding!
+
+
+Data Types:
+* Int
+* float
+* string
+* list
+* dict 
+* tuple 
+* set 
+* bool 
