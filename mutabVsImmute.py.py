@@ -13,3 +13,6 @@ print(my_dict)
 my_set = {1,2,3}
 my_set.add(4)
 print(my_set)
+
+print(50+50)
+print(0.1+0.2-0.3)
