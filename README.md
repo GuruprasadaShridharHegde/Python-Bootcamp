@@ -77,4 +77,12 @@ Note:
 * Strings
 * Tuples
 
-![Alt text](msedge_cScX8nUZom.png)
+![Alt text](msedge_GPZtchpyIR.png)
+
+Rules for variable names:
+* Names should not start with a number
+* No spaces in the variable names, use underscore instead.
+* Cant use the below symbols
+: ''' , <> / ? | \ () ! @ # $ %  ^ & * ~ - +
+* Best practice to use names in lower case
+* Avoid using words that have special meaning in python like "list" and "str"
