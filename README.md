@@ -2,6 +2,7 @@
 
 Welcome to the Complete Python 3 Bootcamp! This comprehensive course, led by the Head of Data Science at Pierian Training, Jose Portilla, is designed to take you from a beginner to a Python hero.
 
+
 ## Course Resources:
 
 1. **Course Notebooks:**
