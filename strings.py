@@ -16,3 +16,4 @@ print(len("word"))
 new_string = 'hay hai'
 new_string[1:2]
 print(new_string)
+

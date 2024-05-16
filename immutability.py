@@ -13,4 +13,8 @@ name6["b"]="4"
 print("name6",name6)
 
 name7 = [1,2,3,4]
-name7[6] = "6"
+name7[2] = "3"
+print(name7)
+
+name = "samming"
+name[1] = "k"
