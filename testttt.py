@@ -63,3 +63,4 @@ print("Logged out successfully.")
 
 # Close the browser
 driver.quit()
+
