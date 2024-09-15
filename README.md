@@ -2,6 +2,7 @@
 
 Welcome to the Complete Python 3 Bootcamp! This comprehensive course, led by the Head of Data Science at Pierian Training, Jose Portilla, is designed to take you from a beginner to a Python hero.
 
+
 ## Course Resources:
 
 1. **Course Notebooks:**
@@ -51,6 +52,7 @@ c. **Jupyter Notebooks:**
 d. **Git and GitHub Overview:**
    - Explore the fundamentals of Git and GitHub to enhance your version control skills.
 
+
 Happy coding!
 
 
@@ -63,3 +65,25 @@ Data Types:
 * tuple 
 * set 
 * bool 
+
+
+Note:
+1. Mutable objects are:
+* List
+* Dictionary
+* Sets
+
+2. Immutable objects are:
+* Numbers
+* Strings
+* Tuples
+
+![Alt text](msedge_GPZtchpyIR.png)
+
+Rules for variable names:
+* Names should not start with a number
+* No spaces in the variable names, use underscore instead.
+* Cant use the below symbols
+: ''' , <> / ? | \ () ! @ # $ %  ^ & * ~ - +
+* Best practice to use names in lower case
+* Avoid using words that have special meaning in python like "list" and "str"
